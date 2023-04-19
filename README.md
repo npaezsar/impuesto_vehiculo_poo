@@ -9,4 +9,4 @@ Modelo:
 
 Si el carro está matriculado en el Socorro se descuenta el 50% del impuesto.
 
-El programa debe tener: constructores, métodos get y set, metodos get y set, metodos funcionales.
+El programa debe tener: constructores, métodos get y set, metodos funcionales.
