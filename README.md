@@ -1,6 +1,6 @@
 # impuesto_vehiculo_poo
 
-Hacer un programa que permita calcular el impuesto de un vehículo, dependiendo de las siguientes características:
+Hacer un programa que permita calcular el impuesto de un conjunto de vehículos, dependiendo de las siguientes características:
 
 1. Modelo:
 - Carro nuevo 10% del precio del vehículo.
@@ -11,4 +11,4 @@ Hacer un programa que permita calcular el impuesto de un vehículo, dependiendo 
 
 3. El programa debe tener: constructores, métodos get y set, metodos funcionales.
 
-4. Implementar inicialmente la solució por consola, y posteriormente una app completa, bajo el patrón MVC.
+4. Implementar inicialmente la solució por consola, y posteriormente una app completa, bajo el patrón MVC, que permita gestionar el impuesto de varios veh
